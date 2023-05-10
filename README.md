@@ -3,7 +3,7 @@ My first repository
 <html>
   <head>
     <H1> **Favorites Movies** </H1><br>
-  </head>\
+  </head>
   <body>
     
     1. *John Wick*<br>
