@@ -2,7 +2,7 @@
 My first repository 
 <html>
   <head>
-    <H1>**Favorites Movies**</H1><br>
+    <H1> *Favorites Movies* </H1><br>
   </head>
   <body>
     
