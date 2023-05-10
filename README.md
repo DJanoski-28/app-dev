@@ -1,15 +1,14 @@
-# app-dev
-My first repository 
 <html>
   <head>
-    <H1> My Favorites Movies </H1><br>
+<title>My first Repository</title>
+<H1><b><center>My Favorite Movies</b></center></H1><br>
   </head>
   <body>
-    
-  1. *John Wick*<br>
-  2. *2 Guns*<br>
-  3. *One Piece RED*<br>
+
+1.<i>John Wick</i><br>
+2.<i>Avengers: EndGame</i><br>
+3.<i>One Piece Red</i><br>
 
   </body>
-  
+
   </HTML>
