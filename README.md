@@ -6,9 +6,9 @@ My first repository
   </head>
   <body>
     
-    1. *John Wick*<br>
-    2. *2 Guns*<br>
-    3. *One Piece RED*<br>
+  1. *John Wick*<br>
+  2. *2 Guns*<br>
+  3. *One Piece RED*<br>
 
   </body>
   
